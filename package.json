@@ -1,0 +1,25 @@
+{
+  "name": "nodeaws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js",
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishabh-gupta-au13/nodeaws.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishabh-gupta-au13/nodeaws/issues"
+  },
+  "homepage": "https://github.com/rishabh-gupta-au13/nodeaws#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
